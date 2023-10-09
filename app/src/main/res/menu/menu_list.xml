@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        android:icon="@drawable/baseline_settings_24"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/randomForest"
+        android:title="Random Forest"
+        />
+    <item
+        android:id="@+id/naiveBayes"
+        android:title="Naive Bayes"
+        />
+    <item
+        android:id="@+id/logistic"
+        android:title="Logistic Regression"
+        />
+    <item
+        android:id="@+id/decisionTree"
+        android:title="Decision Tree"
+        />
+    <item
+        android:id="@+id/svm"
+        android:title="SVM"
+        />
+    <item
+        android:id="@+id/knn"
+        android:title="KNN"/>
+
+</menu>
