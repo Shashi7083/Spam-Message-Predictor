@@ -11,5 +11,6 @@ Android app  and Machine Learning Model is used to predict the messages & emails
 File for  models and flask code for making api for sending post request is in <font color="blue">https://github.com/Shashi7083/flask-deployment</font>
 
 
-
-| <img src="C:/Users/shash/Downloads/smspredic.jpg" width="200" /> | <img src="C:/Users/shash/Downloads/smspred.jpg" width="200" /> | <img src="C:/Users/shash/Downloads/smspredictor.jpg" width="200" /> |
+| Image 1 | Image 2 | Image 3 |
+| ------- | ------- | ------- |
+| ![Image 1](file:///C:/Users/shash/Downloads/smspredic.jpg){width=200} | ![Image 2](file:///C:/Users/shash/Downloads/smspred.jpg){width=200} | ![Image 3](file:///C:/Users/shash/Downloads/smspredictor.jpg){width=200} |
