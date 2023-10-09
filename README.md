@@ -12,4 +12,4 @@ File for  models and flask code for making api for sending post request is in <f
 
 
 
-| <img src="Downloads/smspredic.jpg" width="200" /> | <img src="Downloads/smspred.jpg" width="200" /> | <img src="Downloads/smspredictor.jpg" width="200" /> |
+| <img src="C:/Users/shash/Downloads/smspredic.jpg" width="200" /> | <img src="C:/Users/shash/Downloads/smspred.jpg" width="200" /> | <img src="C:/Users/shash/Downloads/smspredictor.jpg" width="200" /> |
