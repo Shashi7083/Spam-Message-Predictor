@@ -14,9 +14,5 @@ File for  models and flask code for making api for sending post request is in <f
 | Image 1 | Image 2 | Image 3 |
 | ------- | ------- | ------- |
 
-| ![Image 1](https://github.com/Shashi7083/Spam-Message-Predictor/assets/88765330/7886e8ef-1ff1-4232-a4c8-9f9f7c5ecbfe){width=200} | ![Image 2](https://github.com/Shashi7083/Spam-Message-Predictor/assets/88765330/cd53f623-041d-4285-ad19-4bb80881ad4a){width=200} | ![Image 3](https://github.com/Shashi7083/Spam-Message-Predictor/assets/88765330/eb005b68-ab34-4ebc-bd81-2d732399321d){width=200} |
+| ![Image 1](C:/users/shash/Downloads/smspredic.jpg){width=200} | ![Image 2](C:/users/shash/Downloads/smspredictor.jpg){width=200} | ![Image 3](C:/users/shash/Downloads/smspred.jpg){width=200} |
 
-
-<img src="[https://image.url](https://github.com/Shashi7083/Spam-Message-Predictor/assets/88765330/7886e8ef-1ff1-4232-a4c8-9f9f7c5ecbfe)https://github.com/Shashi7083/Spam-Message-Predictor/assets/88765330/7886e8ef-1ff1-4232-a4c8-9f9f7c5ecbfe" width="200" height="100" alt="Image alt text">
-<img src="[https://image.url](<img src="[https://image.url](https://github.com/Shashi7083/Spam-Message-Predictor/assets/88765330/7886e8ef-1ff1-4232-a4c8-9f9f7c5ecbfe)https://github.com/Shashi7083/Spam-Message-Predictor/assets/88765330/7886e8ef-1ff1-4232-a4c8-9f9f7c5ecbfe" width="200" height="100" alt="Image alt text">" width="200" height="100" alt="Image alt text">
-<img src="[https://image.url]([https://github.com/Shashi7083/Spam-Message-Predictor/assets/88765330/7886e8ef-1ff1-4232-a4c8-9f9f7c5ecbfe)https://github.com/Shashi7083/Spam-Message-Predictor/assets/88765330/7886e8ef-1ff1-4232-a4c8-9f9f7c5ecbfe](https://github.com/Shashi7083/Spam-Message-Predictor/assets/88765330/eb005b68-ab34-4ebc-bd81-2d732399321d)https://github.com/Shashi7083/Spam-Message-Predictor/assets/88765330/eb005b68-ab34-4ebc-bd81-2d732399321d" width="200" height="100" alt="Image alt text">
